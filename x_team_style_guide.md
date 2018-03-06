@@ -75,9 +75,9 @@ Our comments are aimed at improving the readability and maintainability of code 
         * If statements will have a space between if and () as well as between () and {. Contents of if statement will be indented 4 spaces
 * switch statement
     * Brackets
-        * 
+        * Opening bracket on line of switch statement.  Closing bracket aligned with beginning of switch statement
     * Spacing
-        * 
+        * Indent every case four spaces from the start of the switch statement.  Indent another four spaces in for the function of each case.
 * while loops
     * Same as if statement
 * for loops
