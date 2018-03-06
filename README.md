@@ -6,7 +6,7 @@
        * GitHub username 1: SavannahOlson-CS400
        * GitHub username 2: Smulvey2
        * GitHub username 3: oconmi
-       * GitHub username 4:
+       * GitHub username 4: nickmerf
    * When did you complete this exercise? 
        * Mostly on Monday Mar. 5
    * How long did it take your team to complete this exercise? 
