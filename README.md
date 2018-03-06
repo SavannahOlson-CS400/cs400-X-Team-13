@@ -4,13 +4,13 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: SavannahOlson-CS400
-       * GitHub username 2:Smulvey2
+       * GitHub username 2: Smulvey2
        * GitHub username 3: oconmi
        * GitHub username 4:
    * When did you complete this exercise? 
-       * Started working on it on Tuesday, Feb 27
+       * Mostly on Monday Mar. 5
    * How long did it take your team to complete this exercise? 
-       * 
+       * About a day working remotely
 
 ## Table of Contents
 
